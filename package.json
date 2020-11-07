@@ -1,0 +1,16 @@
+{
+  "name": "api-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Thiago-l/api_authentication.git",
+  "author": "Thiago-l <thigo.l17@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon --exec ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}

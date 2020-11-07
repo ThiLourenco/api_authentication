@@ -1,1 +1,9 @@
-API Authentication 
+## API Authentication 
+
+- JWT
+- TypeScript
+- TypeORM
+
+
+
+
