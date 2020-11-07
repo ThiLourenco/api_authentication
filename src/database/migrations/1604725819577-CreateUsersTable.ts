@@ -21,7 +21,7 @@ export class CreateUsersTable1604725819577 implements MigrationInterface {
 					isUnique: true,
 				},
 				{
-					name: 'password_hash',
+					name: 'password',
 					type: 'varchar',
 				}
 			],
