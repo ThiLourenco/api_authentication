@@ -1,7 +1,7 @@
 import 'reflect-metadata';
 import express from 'express';
 
-import './database/migrations/connection';
+import './database/connection';
 
 import routes from '../routes';
 
